@@ -663,7 +663,7 @@ rbb_1.ImportFromXMLFile( this.Tag )
 rbb_1.textsize = (-1)*ldec_font*8
 
 Opensheet (w_quickstart, This, 1, Layered! )
-
+//git 테스트
 end event
 
 event resize;rbb_1.width = this.workspaceWidth()

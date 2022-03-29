@@ -174,6 +174,8 @@ ddlb_1.post Event selectionchanged( ddlb_1.totalitems( ) )
 //2.Navigation DefaultUrl
 //3.event wb_1.Navigationprogressindex
 
+//git 테스트
+
 end event
 
 type wb_1 from w_chart_base`wb_1 within w_line
